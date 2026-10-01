@@ -1,0 +1,6 @@
+streamlit
+openai
+SpeechRecognition
+requests
+opencv-python-headless
+tavily-python
