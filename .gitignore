@@ -3,3 +3,6 @@
 .env.*
 __pycache__/
 app.py/.streamlit/secrets.toml
+
+users.json
+app.py/users.json
