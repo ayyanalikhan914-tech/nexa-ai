@@ -4,3 +4,8 @@ SpeechRecognition
 requests
 opencv-python-headless
 tavily-python
+edge-tts
+SpeechRecognition
+
+PyPDF2
+python-docx

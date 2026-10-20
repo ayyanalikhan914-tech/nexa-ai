@@ -1,21 +1,26 @@
+
 {
+  "id": "/",
   "name": "Nexa AI",
   "short_name": "Nexa",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#0B0F19",
   "theme_color": "#7C3AED",
   "description": "Nexa AI - Think • Create • Build",
   "icons": [
     {
-      "src": "/icon-192.png",
+      "src": "/static/icon-192.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     },
     {
-      "src": "/icon-512.png",
+      "src": "/static/icon-512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
